@@ -18,7 +18,7 @@ public class Main3 {
         return "";
     }
 
-    private static long TeacherScore(long teacherId, ActionsList departmentSchedule)
+    public static long TeacherScore(long teacherId, ActionsList departmentSchedule)
     {
         return 0; // TODO 3.1: Doplň pomocnou metodu - součet všech přihlášených studentů na akcích daného učitele
     }
